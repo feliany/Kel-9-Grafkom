@@ -6,6 +6,8 @@ Anggota Kelompok :
 
 # Nama Produk: Keyman
 
+![logokeyman](https://user-images.githubusercontent.com/80454112/145800675-54af273f-7bb3-4503-a099-b6e72c7e6a1c.png)
+
 
 # Informasi Proyek
 Github: https://github.com/feliany/Kel-9-Grafkom
