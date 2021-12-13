@@ -4,6 +4,9 @@ Anggota Kelompok :
 - Tifanee Anindhita G64190080
 - Feliany Dwisusanta G64190113
 
+# Nama Produk: Keyman
+
+
 # Informasi Proyek
 Github: https://github.com/feliany/Kel-9-Grafkom
 Figma: https://www.figma.com/file/7ZuXZB8nIFwKgGE3HdtIye/GRAFKOM?node-id=31%3A181
